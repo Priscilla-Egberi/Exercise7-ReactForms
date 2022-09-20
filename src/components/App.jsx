@@ -12,8 +12,7 @@ function App() {
   }
   function submitName(){
       submittedName(name)
-      
-    //   typedName('')
+      typedName('')
   }
   return (
     <div className="container">

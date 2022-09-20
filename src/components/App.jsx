@@ -12,6 +12,7 @@ function App() {
   }
   function submitName(){
       submittedName(name)
+      alert("your name is" + name)
       typedName('')
   }
   return (
